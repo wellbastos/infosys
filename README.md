@@ -43,18 +43,7 @@ Desenhe um fluxo de CI/CD visando a entrega de uma aplicação Web.
 
 Utilize o seu conhecimento sobre o processo.
 ```
-
-#todo
-Os consumers é implementado em Java. Este aplicativo possui três consumers:
-- Consumer para contar os registros recebidos;
-- Consumer para encontrar o beneficiário com maior parcela;
-- Consumer para calcular todos os valores por UF.
-
-As libs e frameworks utilizados são:
-- Spring Boot: para fornecer as funcionalidades básicas do programa;
-- Spring Cloud Stream: para fazer a integração com o cluster Kafka;
-- Maven: para gerenciar as dependências e o build.
-
+O fluxo do  CI/CD estará na pasta [projeto](https://github.com/wellbastos/infosys/tree/master/CICD) , acessando o [readme](https://github.com/wellbastos/infosys/tree/master/CICD/README.md) 
 
 ## 3 - Docker:
 ```
