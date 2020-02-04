@@ -8,6 +8,8 @@ Este repositório está dividido em três partes:
 - CI/CD
 - Docker
 
+---
+
 ## 1 - Infraestrutura:
 
  ```
@@ -34,6 +36,8 @@ Também atribui monitoramento basico de consumo de cpu pelo  cloudwatch que efet
 Utilizei o terraform para instanciar este ambiente, a versão `11` foi utilizada neste projeto.
 docker
 
+---
+
 ## 2 - CI/CD:
 
 ```
@@ -44,7 +48,9 @@ Desenhe um fluxo de CI/CD visando a entrega de uma aplicação Web.
 Utilize o seu conhecimento sobre o processo.
 ```
 
-O fluxo do  CI/CD estará na pasta [projeto](https://github.com/wellbastos/infosys/tree/master/CICD) , acessando o [readme](https://github.com/wellbastos/infosys/tree/master/CICD/README.md) 
+O fluxo do  CI/CD estará na pasta [projeto](https://github.com/wellbastos/infosys/tree/master/CICD) , acessando o [readme](https://github.com/wellbastos/infosys/tree/master/CICD/README.md).
+
+---
 
 ## 3 - Docker:
 
@@ -64,6 +70,8 @@ Basta acessar a pasta do [projeto](https://github.com/wellbastos/infosys/tree/ma
 
 > bash run.sh
 
+---
+
 ## Links - Github:
 
 [Repositório  do Teste](https://github.com/wellbastos/infosys/)
@@ -71,6 +79,8 @@ Basta acessar a pasta do [projeto](https://github.com/wellbastos/infosys/tree/ma
 [Github](https://github.com/wellbastos/)
 
 [Linkedin](https://www.linkedin.com/in/wellingtonbastos)
+
+---
 
 ## Teste Efetuado por:
 
