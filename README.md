@@ -43,9 +43,11 @@ Desenhe um fluxo de CI/CD visando a entrega de uma aplicação Web.
 
 Utilize o seu conhecimento sobre o processo.
 ```
+
 O fluxo do  CI/CD estará na pasta [projeto](https://github.com/wellbastos/infosys/tree/master/CICD) , acessando o [readme](https://github.com/wellbastos/infosys/tree/master/CICD/README.md) 
 
 ## 3 - Docker:
+
 ```
 Solicitado:
 Visando a evolução da aplicação para micros serviço, monte um Dockerfile funcional de uma aplicação web usando Nginx como demonstração e importando um index.html
